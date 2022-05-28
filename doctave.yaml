@@ -6,3 +6,5 @@ navigation:
   - path: docs/projects
     children:
       - path: docs/projects/medchain.md
+      - path: docs/projects/paradons.md
+      - path: docs/projects/ull.md
