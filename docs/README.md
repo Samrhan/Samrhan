@@ -1,10 +1,13 @@
-C'est moi !
+Samuel Bader
 ================
 
-Je vais essayer d'utiliser ce repo pour faire un petit blog.
+I will use this repo as a blog.
 
-Je publierai des articles sur mes projets, la façon dont je les ai abordés, avec une explication des choix technologiques.
+I will describe in depth some of my projects and the choices I made.
 
-Une version web de ce blog est disponible [ici](https://blog.sbader.fr) (généré par Doctave)
+I will also try to write small articles about, either algorithm exercises I solved, or simply some kind of tutorials about problems I encountered in my projects.
 
-Bonne lecture !
+I'm still a student in this field, and don't pretend to give perfect solutions, I just want to practice writing, to share what I know, if possible to teach other people, and will be glad to get your opinions.
+
+A web version of this blog can be found [here](https://blog.sbader.fr)
+
