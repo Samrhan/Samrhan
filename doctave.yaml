@@ -1,3 +1,8 @@
 ---
 title: "Samuel BADER - Blog"
 description: "Blog de Samuel BADER"
+navigation:
+  - path: docs/
+  - path: docs/projects
+    children:
+      - path: docs/projects/medchain.md

@@ -1,4 +1,4 @@
-Samuel Bader
+Samuel BADER
 ================
 
 I will use this repo as a blog.
